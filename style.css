@@ -1,0 +1,25 @@
+style.css
+body {
+    background-color: #7FFF00;
+    font-size: 24pt;
+    color: #808080;
+}
+
+button {
+    background-color: #7CFC00;
+    width: 70px;
+}
+
+h1 {
+    font-size: 24pt;
+    color: #808080;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
